@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "扫雷1.0", "扫雷1.0.csproj", "{931E2AFB-38F4-41A1-AFBD-0E3CF3CD28AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{931E2AFB-38F4-41A1-AFBD-0E3CF3CD28AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931E2AFB-38F4-41A1-AFBD-0E3CF3CD28AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931E2AFB-38F4-41A1-AFBD-0E3CF3CD28AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931E2AFB-38F4-41A1-AFBD-0E3CF3CD28AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CE5BE6F-9435-4B45-A09F-A30C661093FF}
+	EndGlobalSection
+EndGlobal

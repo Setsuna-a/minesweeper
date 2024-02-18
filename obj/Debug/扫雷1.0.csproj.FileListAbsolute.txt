@@ -1,0 +1,11 @@
+D:\Source\cs\扫雷1.0\bin\Debug\扫雷1.0.exe.config
+D:\Source\cs\扫雷1.0\bin\Debug\扫雷1.0.exe
+D:\Source\cs\扫雷1.0\bin\Debug\扫雷1.0.pdb
+D:\Source\cs\扫雷1.0\obj\Debug\扫雷1.0.csproj.AssemblyReference.cache
+D:\Source\cs\扫雷1.0\obj\Debug\扫雷1._0.扫雷.resources
+D:\Source\cs\扫雷1.0\obj\Debug\扫雷1._0.Properties.Resources.resources
+D:\Source\cs\扫雷1.0\obj\Debug\扫雷1.0.csproj.GenerateResource.cache
+D:\Source\cs\扫雷1.0\obj\Debug\扫雷1.0.csproj.CoreCompileInputs.cache
+D:\Source\cs\扫雷1.0\obj\Debug\扫雷1.0.exe
+D:\Source\cs\扫雷1.0\obj\Debug\扫雷1.0.pdb
+D:\Source\cs\扫雷1.0\obj\Debug\扫雷1._0.游戏结束.resources
